@@ -1,0 +1,14 @@
+C:\Users\russe\source\repos\Evaluacion unidad 1 R.P.C\Evaluacion unidad 1 R.P.C\obj\Debug\net8.0\Evaluacion unidad 1 R.P.C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\russe\source\repos\Evaluacion unidad 1 R.P.C\Evaluacion unidad 1 R.P.C\obj\Debug\net8.0\Evaluacion unidad 1 R.P.C.AssemblyInfoInputs.cache
+C:\Users\russe\source\repos\Evaluacion unidad 1 R.P.C\Evaluacion unidad 1 R.P.C\obj\Debug\net8.0\Evaluacion unidad 1 R.P.C.AssemblyInfo.cs
+C:\Users\russe\source\repos\Evaluacion unidad 1 R.P.C\Evaluacion unidad 1 R.P.C\obj\Debug\net8.0\Evaluacion unidad 1 R.P.C.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\EVALUACION UNIDAD 1 R.P.C\EVALUACION UNIDAD 1 R.P.C\bin\Debug\net8.0\EVALUACION UNIDAD 1 R.P.C.exe
+C:\Users\russe\source\repos\EVALUACION UNIDAD 1 R.P.C\EVALUACION UNIDAD 1 R.P.C\bin\Debug\net8.0\EVALUACION UNIDAD 1 R.P.C.deps.json
+C:\Users\russe\source\repos\EVALUACION UNIDAD 1 R.P.C\EVALUACION UNIDAD 1 R.P.C\bin\Debug\net8.0\EVALUACION UNIDAD 1 R.P.C.runtimeconfig.json
+C:\Users\russe\source\repos\EVALUACION UNIDAD 1 R.P.C\EVALUACION UNIDAD 1 R.P.C\bin\Debug\net8.0\EVALUACION UNIDAD 1 R.P.C.dll
+C:\Users\russe\source\repos\EVALUACION UNIDAD 1 R.P.C\EVALUACION UNIDAD 1 R.P.C\bin\Debug\net8.0\EVALUACION UNIDAD 1 R.P.C.pdb
+C:\Users\russe\source\repos\EVALUACION UNIDAD 1 R.P.C\EVALUACION UNIDAD 1 R.P.C\obj\Debug\net8.0\EVALUACION UNIDAD 1 R.P.C.dll
+C:\Users\russe\source\repos\EVALUACION UNIDAD 1 R.P.C\EVALUACION UNIDAD 1 R.P.C\obj\Debug\net8.0\refint\EVALUACION UNIDAD 1 R.P.C.dll
+C:\Users\russe\source\repos\EVALUACION UNIDAD 1 R.P.C\EVALUACION UNIDAD 1 R.P.C\obj\Debug\net8.0\EVALUACION UNIDAD 1 R.P.C.pdb
+C:\Users\russe\source\repos\EVALUACION UNIDAD 1 R.P.C\EVALUACION UNIDAD 1 R.P.C\obj\Debug\net8.0\EVALUACION UNIDAD 1 R.P.C.genruntimeconfig.cache
+C:\Users\russe\source\repos\EVALUACION UNIDAD 1 R.P.C\EVALUACION UNIDAD 1 R.P.C\obj\Debug\net8.0\ref\EVALUACION UNIDAD 1 R.P.C.dll

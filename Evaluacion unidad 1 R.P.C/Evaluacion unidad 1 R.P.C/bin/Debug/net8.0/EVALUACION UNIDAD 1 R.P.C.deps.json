@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EVALUACION UNIDAD 1 R.P.C/1.0.0": {
+        "runtime": {
+          "EVALUACION UNIDAD 1 R.P.C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EVALUACION UNIDAD 1 R.P.C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
